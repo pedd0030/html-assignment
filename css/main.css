@@ -1,0 +1,23 @@
+/* My Awesome CSS Document */
+
+body {
+        background-color: blanchedalmond;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+}
+
+header, footer {
+    background-color: violet;
+}
+
+.site-title{
+    color: aliceblue;
+}
+
+#my-image{ 
+    box-shadow: 0 0 2px 1px black;
+}
+
+.hobbies{
+    list-style-type: square;
+}
