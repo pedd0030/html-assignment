@@ -11,7 +11,7 @@ header, footer {
 }
 
 .site-title{
-    color: aliceblue;
+    color: rgb(13, 1, 1);
 }
 
 #my-image{ 
@@ -20,4 +20,17 @@ header, footer {
 
 .hobbies{
     list-style-type: square;
+}
+nav li{
+    list-style: none;
+}
+
+a.link {
+    text-decoration: none;
+    background: gray;
+    border-style:solid;
+}
+
+a.link:hover{
+    background: yellow;
 }
