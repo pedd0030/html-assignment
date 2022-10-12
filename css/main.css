@@ -34,3 +34,6 @@ a.link {
 a.link:hover{
     background: yellow;
 }
+.hobbies li:nth-child(odd){
+    background:pink;
+}
